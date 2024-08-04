@@ -184,6 +184,8 @@ ul{
 li {
     margin-bottom: 10px;
 }
-.as{
-    position: sticky;
-}
+
+.col1 {
+    display: flex;
+    gap: 20px;
+  }
