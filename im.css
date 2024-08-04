@@ -184,3 +184,6 @@ ul{
 li {
     margin-bottom: 10px;
 }
+.as{
+    position: sticky;
+}
